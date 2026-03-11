@@ -45,43 +45,35 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![expt6_and_sch](https://github.com/user-attachments/assets/ef0ba723-f9ad-4796-9c49-0caac9162383)
+![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
 
-
-![expt6_and_sym](https://github.com/user-attachments/assets/f09b3cf8-e0e3-498b-81e1-f236becf3703)
-
+![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![exor_sch](https://github.com/user-attachments/assets/d643e1f4-1102-43f9-9362-ed6eaf50a981)
+![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
 
-
-![exor_sym](https://github.com/user-attachments/assets/f7d4b666-69e5-49f1-8d3a-eb50eb529c27)
-
+![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
 
 ### Schematicand Symbol of Half Adder:
-![ha_sch](https://github.com/user-attachments/assets/fca38cd2-7ed3-431b-9871-b0a49a000b61)
+![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
 
-
-![ha_sym](https://github.com/user-attachments/assets/c8bf2f7c-ba88-4de3-9f10-eff3987758a8)
-
+![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-![2bit multiplier ckt](https://github.com/user-attachments/assets/250e8f52-ee5c-4c78-b43f-546aa9604678)
-
+![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
 
 ## Output
 ### Transient Analysis Output:
-![analysis 2bit mul](https://github.com/user-attachments/assets/764b8661-31b7-4c5d-9cd5-a2fd02a1dab5)
-
+![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
 
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
 
-![graph 2 bit mul](https://github.com/user-attachments/assets/f696bce4-9be1-4b90-9e7f-b99aa86acbf2)
+<img width="1060" height="461" alt="image" src="https://github.com/user-attachments/assets/578c217c-aace-4058-a68b-583c0e04c368" />
 
 
-#### Run Time : 200ns
+Run Time : 200ns
 
 ## Results
 1. Successfully designed the **2-bit Multiplier** schematic using **Cadence Virtuoso**.
